@@ -1,0 +1,7 @@
+mode_modules/
+
+.replit
+
+*.json
+
+*.js
